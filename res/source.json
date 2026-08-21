@@ -1,0 +1,38 @@
+{
+    "info": {
+        "id": "en.chikari",
+        "name": "Chikari",
+        "version": 1,
+        "url": "https://chikari.moe",
+        "contentRating": 1,
+        "languages": [
+            "en"
+        ],
+        "minAppVersion": "0.7.1"
+    },
+    "listings": [
+        {
+            "id": "trending",
+            "kind": 1
+        },
+        {
+            "id": "popular",
+            "kind": 1
+        },
+        {
+            "id": "top-rated",
+            "kind": 1
+        },
+        {
+            "id": "recently-updated",
+            "kind": 1
+        },
+        {
+            "id": "recently-added",
+            "kind": 1
+        }
+    ],
+    "config": {
+        "breakingChangeVersion": 1
+    }
+}
