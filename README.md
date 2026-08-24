@@ -1,6 +1,8 @@
 
 # Chikari Aidoku Source
 
+NOTE: THIS IS AN UNOFFICIAL AIDOKU SOURCE its personally made by me for myself 
+
 Manga reader for Chikari.moe on Aidoku.
 
 ## Installation
